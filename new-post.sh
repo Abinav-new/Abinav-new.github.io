@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .
 git commit -m "new post"
-git push origin main main --force
-echo "uour new post has been created"
+git push origin main --force
+echo "your new post has been created"
