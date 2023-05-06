@@ -3,7 +3,7 @@
 - item: Blog
   url: ""
 - item: github
-- url: /github
+- url: "/gihub"
 - item: Category
   url: categories
 - item: Tag
