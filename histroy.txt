@@ -1,0 +1,501 @@
+    1  ./termux/colour.sh
+    2  ./.termux/colour.sh
+    3  cd .termux
+    4  ./colour.sh
+    5  ll
+    6  ls
+    7  bash colour.sh
+    8  bash colours.sh
+    9  colors.sh
+   10  ./colors.sh
+   11  which nvim
+   12  ln -s (which nvim) /data/data/com.termux/files/usr/bin/vim
+   13  ln -s (which nvim/data/data/com.termux/files/usr/bin/vim\n\
+   14  ln -s which nvim /data/data/com.termux/files/usr/bin/vim\n
+   15  clear
+   16  wget https://raw.githubusercontent.com/ThePrimeagen/.dotfiles/master/tmux/.tmux.conf
+   17  apt install wget openssl
+   18  wget https://raw.githubusercontent.com/ThePrimeagen/.dotfiles/master/tmux/.tmux.conf
+   19  git clone https://github.com/Abinav-new/init.lua-config-new
+   20  cd init.lua-config-new
+   21  ls
+   22  cd ..
+   23  mkdir -p .config/nvim
+   24  cp init.lua-config-new .config/nvim/
+   25  cp init.lua-config-new/init.lua .config/nvim/
+   26  cp init.lua-config-new/lua .config/nvim/
+   27  cp r init.lua-config-new/lua .config/nvim/
+   28  cp -r init.lua-config-new/lua .config/nvim/
+   29  cp -r init.lua-config-new/after .config/nvim/
+   30  apt install nodejs
+   31  .termux/colours.sh
+   32  ./termux/colours.sh
+   33  cd .termux
+   34  ll
+   35  ks
+   36  ls
+   37  ./colors.sh
+   38  tmux
+   39  nvim
+   40  .termux/fonts.sh
+   41  tmux
+   42  git clone --depth 1 https://github.com/wbthomason/packer.nvim\\n ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+   43  clear
+   44  nvim
+   45  clear
+   46  cc
+   47  apt instaall clang pytho
+   48  apt install clang python
+   49  hx
+   50  clear
+   51  nvim
+   52  ls
+   53  mkdir test
+   54  cd test/
+   55  CD
+   56  cd
+   57  clear
+   58  mkdir biolink
+   59  cd biolink
+   60  exit
+   61  cd biolink
+   62  ll
+   63  nvim index.html
+   64  cd
+   65  rm -rf .config/nvim
+   66  rm -rf .local/share/nvim
+   67  git clone https://github.com/craftzdog/dotfiles-public
+   68  cp -r dotfiles-public/.config/nvim/ .config/
+   69  clear
+   70  nvim
+   71  git clone --depth 1 https://github.com/wbthomason/packer.nvim\\n ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+   72  clear
+   73  nvim
+   74  cd biolink/'\n
+   75  cd biolink/\n
+   76  clear
+   77  ls
+   78  nvim
+   79  nvim index.html
+   80  termux-open
+   81  ll
+   82  cd biolink
+   83  ll
+   84  termux-open index.html
+   85  rm -rf .config/nvim/
+   86  ll
+   87  cp -r init.lua-config-new/init.lua
+   88  cp -r init.lua-config-new/init.lua .config/nvim/
+   89  mkdir -p .config/nvim
+   90  cp -r init.lua-config-new/init.lua .config/nvim/
+   91  cp -r init.lua-config-new/lua .config/nvim/
+   92  cp -r init.lua-config-new/after .config/nvim/
+   93  clear
+   94  nvim
+   95  clear
+   96  tmux
+   97  :Q
+   98  clear
+   99  tmux new -s neovim
+  100  nvim
+  101  pkg update
+  102  pkg install hugo git openssh
+  103  clear
+  104  hugo new site blog/
+  105  clear
+  106  cd blog
+  107  cleae
+  108  clear
+  109  git init
+  110  git submodule add https://github.com/devcows/hugo-universal-theme themes/hugo-universal-theme
+  111  cd blog
+  112  git iniy
+  113  git init
+  114  clear
+  115  nvim
+  116  ls themes
+  117  clear
+  118  nvim
+  119  hugo new posts/github-in-5-mins.md
+  120  nvim content/posts/github-in-5-mins.md
+  121  cd themes/hugo-universal-theme
+  122  ls
+  123  ssh-keygen -t ed25519 -C ""
+  124  cd test
+  125  mkdir test
+  126  test/
+  127  l
+  128  ll
+  129  nvim
+  130  cd ../
+  131  cp -r test/ ../
+  132  rm -rf test/
+  133  cd
+  134  clear\\n
+  135  cd .config/nvim
+  136  ll
+  137  nvim init.lua
+  138  nvim lua/theprimeagen/init.lua
+  139  nvim lua/theprimeagen/remap.lua
+  140  ll
+  141  cd after/plugin
+  142  ll
+  143  clear
+  144  ls
+  145  nvim cloak.lua
+  146  nvim colors.lua
+  147  nvim fugitive.lua
+  148  nvim harpoon.lua
+  149  nvim lsp.lua
+  150  nvim refactoring.lua
+  151  clear
+  152  ls
+  153  nvim telescope.lua
+  154  nvim tree
+  155  nvim treesitter.lua
+  156  nvim trouble.lua
+  157  nvim undotree.lua
+  158  nvim zenmode.lua
+  159  cd
+  160  cd .config/nvim/plugin
+  161  ll
+  162  cd ../
+  163  nvim
+  164  clear
+  165  cd
+  166  rm -rf .config/nvim/
+  167  cp -r dotfiles-public/.config/nvim
+  168  cp -r dotfiles-public/.config/nvim .confg
+  169  rm -rf .confg
+  170  cp -r dotfiles-public/.config/nvim .config
+  171  nvim
+  172  clear
+  173  cd .config/nvim
+  174  ls
+  175  nvim init.lua
+  176  apt install lua-language-server
+  177  nvim init.lua
+  178  cd lua/craftzdog
+  179  ls
+  180  clear
+  181  ls
+  182  nvim base.lua
+  183  nvim macos.lua
+  184  nvim windows.lua
+  185  nvim wsl
+  186  nvim wsl.lua
+  187  nvim plugins.lua
+  188  cd
+  189  nvim .config/nvim
+  190  ls
+  191  cd after/plugin
+  192  clear
+  193  ls
+  194  nvim autopairs.rc.lua
+  195  eclear
+  196  clea
+  197  ls
+  198  nvim bufferline.rc.lua
+  199  nvim cmp.rc.lua
+  200  nvim colorizer.rc.lua
+  201  nvim
+  202  nvim gitsigns.rc.lua
+  203  nvim lsp-colors.rc.lua
+  204  nvim
+  205  rm
+  206  cd
+  207  rm -rf .config/nvim
+  208  cp -r dotfiles-public/.config/nvim .config
+  209  nvim
+  210  cleae
+  211  clear
+  212  cd .config/nvim/after/plugin
+  213  ls
+  214  nvim telescope.rc.lua
+  215  cd
+  216  cd -
+  217  cd ../
+  218  clear
+  219  ll
+  220  cd lua/craftzdog
+  221  ls
+  222  fd
+  223  cd ../
+  224  ls
+  225  nvim
+  226  cd
+  227  exit
+  228  ll
+  229  rm -rf blog/themes/hugo-universal-theme
+  230  cd blog
+  231  git submodule add https://github.com/onweru/newsroom.git themes/newsroom
+  232  clear
+  233  nvim
+  234  ll
+  235  hugo server
+  236  git submodule add https://github.com/onweru/newsroom.git themes/newsroom
+  237  ls
+  238  ls themes
+  239  nvim config.toml
+  240  hugo new
+  241  hugo server
+  242  clear
+  243  tmux
+  244  cd themes/newsroom
+  245  clear
+  246  cd exampleSite
+  247  ls
+  248  pwd
+  249  cd data
+  250  ls
+  251  pwd
+  252  cd ../../
+  253  clear
+  254  ls
+  255  cp /data/data/com.termux/files/home/blog/themes/newsroom/exampleSite/data/* data/*
+  256  cp /data/data/com.termux/files/home/blog/themes/newsroom/exampleSite/data/* data/.
+  257  clear
+  258  nhugo new github.md
+  259  hugo new github.md
+  260  nvim content/github.md
+  261  nvim data/menu.yml
+  262  ssh-keygen -t ed25519 -C "Abinav-new@gmali.com"
+  263  eval "$(ssh-agent -s)"
+  264  ssh-add ~/.ssh/id_ed25519
+  265  cat ~/.ssh/id_ed25519.pub
+  266  ssh-add ~/.ssh/id_ed25519
+  267  cat ~/.ssh/id_ed25519.pub
+  268  clear
+  269  git add .
+  270  git commit "inital commit"
+  271  git commit "initial commit\n
+  272  git commit "initial commit"\n
+  273  git commit -m "initial commit\n\n
+  274  git commit -m "initial commit"\n\n
+  275  git config --global user.email "Abinav-new@gmmali.com"
+  276  git config --global user.email "Abinav-new@gmali.com"
+  277  git config --global user.name "Abinav-new"
+  278  git commit -m "initial commit"\n\n
+  279  git branch -M main
+  280  git remote add origin git@github.com:Abinav-new/Abinav-new.github.io.git
+  281  git push origin main
+  282  git remote add origin git@github.com:Abinav-new/Abinav-new.github.io.git
+  283  git branch -M main
+  284  git push -u origin main
+  285  git push origin main
+  286  git remote add origin git@github.com:Abinav-new/Abinav-new.github.io.git
+  287  git push -u origin main
+  288  git push
+  289  git push --help
+  290  git push
+  291  git push config
+  292  git push -u origin main
+  293  clearr
+  294  clear
+  295  git push
+  296  git push --set-upstream origin main
+  297  git remote remove  origin git@github.com:Abinav-new/Abinav-new.github.io.git
+  298  git remote  origin git@github.com:Abinav-new/Abinav-new.github.io.git
+  299  git remote git@github.com:Abinav-new/Abinav-new.github.io.git
+  300  clear
+  301  git push -u origin main
+  302  git remote add origin git@github.com:your-github-username/Abinav].git
+  303  git commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Abinav-new/Abinav-new.github.io.git\ngit push -u origin main
+  304  clear
+  305  mkdir -p .github/workflows
+  306  nvim .github/workflows/hugo.yml
+  307  git add .
+  308  git commit -m "deploy"\ngit push
+  309  git commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Abinav-new/Abinav-new.github.io.git\ngit push -u origin main
+  310  git commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Abinav-new/Abinav-git commit -m "deploy"\ngit push
+  311  git commit -m "deploy"
+  312  git push
+  313  git commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Abinav-new/Abinav-git commit -m "deploy"\ngit push
+  314  git remote -v
+  315  git commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Abinav-new/Abinav-git commit -m "deploy"\ngit push
+  316  git remote -v
+  317  git commit -m "first commit"\n
+  318  git add .
+  319  git commit -m "deploy"
+  320  git push
+  321  cd blog
+  322  git push
+  323  git remote add
+  324  git remote rm
+  325  git remote rm git@
+  326  git remote add https://github.com/Abinav-new/Abinav-new.github.io
+  327  git remote rm
+  328  git
+  329  git status
+  330  git push
+  331  git pull
+  332  git push
+  333  git pull
+  334  git push
+  335  git fetch origin
+  336  git pull origin main
+  337  git push
+  338  git push --all
+  339  git pull
+  340  git pull origin main --force
+  341  git push origin main --force
+  342  nvim content/posts
+  343  clear
+  344  nvim newpost.sh
+  345  ll
+  346  nvim newpost.sh
+  347  bash newpost.sh
+  348  clear
+  349  cd blog
+  350  clear
+  351  hugo new post/Neovim-guide.md
+  352  rm -rf content/post
+  353  hugo new post/Neovim-guide.md
+  354  cp -r content/posts/github-in-5-mins.md content/post/
+  355  nvim content/post/
+  356  bash newpost.sh
+  357  git add .
+  358  git commit -m "new post"
+  359  git push
+  360  rm -rf content/posts/
+  361  git commit -m "new post"
+  362  git add .
+  363  git commit -m "new post"
+  364  git push origin main --force
+  365  rm content/post/Neovim-guide.md
+  366  bash newpost.sh
+  367  git push origin main --force
+  368  bash newpost.sh
+  369  hugo new post/neovim-setup.md
+  370  nvim content/post/neovim-setup.md
+  371  rm content/post/neovim-setup.md
+  372  hugo new post/neovim-guide.md
+  373  nvim content/post/neovim-guide.md
+  374  rm content/post/neovim-guide.md
+  375  hugo new post/neovim-configure.md
+  376  nvim content/post/neovim-configure.md
+  377  bash newpost.sh
+  378  nvim config.oml
+  379  nvim config.toml
+  380  git add .
+  381  nvim config.toml
+  382  clear
+  383  git add .
+  384  git commit -m "new post"
+  385  git push origin main --force
+  386  rm content/post/neovim-configure.md
+  387  hugo new post/neovim-installation.md
+  388  nvim content/post/neovim-installation.md
+  389  bash newpost.sh
+  390  cd blog
+  391  rm -rf content/post/neovim-installation.md
+  392  rm newpost.sh
+  393  nvim new-post.sh
+  394  bash new-post.sh
+  395  nvim new-post.sh
+  396  bash new-post.sh
+  397  cd
+  398  rm -rf .config/nvim
+  399  cp -r init.lua-config-new/init.lua .config/nvim/
+  400  mkdir -p .config/nvim/
+  401  cp -r init.lua-config-new/init.lua .config/nvim/
+  402  cp -r init.lua-config-new/lua .config/nvim/
+  403  cp -r init.lua-config-new/after .config/nvim/
+  404  nvim
+  405  clear
+  406  tmux
+  407  cd blog
+  408  nvim content/post/neovim-guide.md
+  409  hugo new post/neovim-guide.md
+  410  clear
+  411  nvim content/post/neovim-guide.md
+  412  clear
+  413  bash new-post.sh
+  414  git add .
+  415  git commit -m "new-post"
+  416  git commit  "new-post"
+  417  git commit -m "new-post"
+  418  git push origin main --force
+  419  hugo new post/neovim-guide.md
+  420  hugo new post/neovim-setup.md
+  421  nvim content/post/neovim-setup.md
+  422  rm new-post.sh
+  423  nvim newpost.sh
+  424  ll
+  425  ./newpost.sh
+  426  mv newpost.sh blog
+  427  clear
+  428  cd blog
+  429  ./newpost.sh
+  430  nvim
+  431  tmux
+  432  fzd
+  433  apt install fzf
+  434  nvim
+  435  cd blog/
+  436  hugo new post/lunarvim-setup.md
+  437  nvim content/post/lunarvim-setup.md
+  438  rm content/github.md
+  439  hugo new github.md
+  440  nvim content/github.md
+  441  cd data
+  442  ll
+  443  nvim menu.yml
+  444  cd
+  445  cd b
+  446  cd blog
+  447  bash newpost.sh
+  448  hugo new post/lazyvim-setup.md
+  449  nvim content/post/lazyvim-setup.md
+  450  bash newpost.sh
+  451  clear
+  452  nvim
+  453  sll
+  454  ll
+  455  nvim
+  456  hugo new post/neovim-in-6-mins.md
+  457  nvim
+  458  clear
+  459  bash newpost.sh
+  460  hugo new post/top-40-termux-commands.md
+  461  nvim
+  462  bash newpost.sh
+  463  nvim my-solve-method.md
+  464  ll\\n
+  465  cd blog
+  466  ll
+  467  nvim
+  468  hugo new post/takuya-dotfiles.md
+  469  hugo new post/takuya-neovim-setup.md
+  470  8
+  471  ll
+  472  clear
+  473  nvim
+  474  nvim blog/content/post/takuya-dotfiles.md
+  475  nvim blog/content/post/takuya-neovim-setup.md
+  476  cd blog
+  477  ls
+  478  ./newpost.sh
+  479  cd blog
+  480  hugo new post/what-is-termux.md
+  481  nvim
+  482  nvinm
+  483  nvim
+  484  vim
+  485  vi
+  486  apt install vim
+  487  clear
+  488  hugo
+  489  help
+  490  g
+  491  ii\\n
+  492  clear
+  493  tmcu
+  494  clear
+  495  tmux
+  496  nvim
+  497  clear
+  498  vim
+  499  hugo new post/hugo-and-github.md
+  500  nvim
+  501  history

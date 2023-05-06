@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Abinav new website</title>
+    <link>https://Abinav-new.github.io/post/</link>
+    <description>Recent content in Posts on Abinav new website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 03:28:13 +0000</lastBuildDate><atom:link href="https://Abinav-new.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Takuya Neovim Setup</title>
+      <link>https://Abinav-new.github.io/post/takuya-neovim-setup/</link>
+      <pubDate>Sat, 06 May 2023 03:28:13 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/takuya-neovim-setup/</guid>
+      <description>this is takuya&amp;rsquo;s dotfiles .config/nvim/ https://github.com/craftzdog/dotfiles-public/tree/master/.config/nvim </description>
+    </item>
+    
+    <item>
+      <title>Takuya Dotfiles</title>
+      <link>https://Abinav-new.github.io/post/takuya-dotfiles/</link>
+      <pubDate>Sat, 06 May 2023 03:28:00 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/takuya-dotfiles/</guid>
+      <description>this is takuya&amp;rsquo;s dotfiles https://github.com/craftzdog/dotfiles-public </description>
+    </item>
+    
+    <item>
+      <title>Top 40 Termux Commands</title>
+      <link>https://Abinav-new.github.io/post/top-40-termux-commands/</link>
+      <pubDate>Sat, 06 May 2023 02:58:20 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/top-40-termux-commands/</guid>
+      <description>there are top 40 termux commands you need to know whoami passwd mkdir test ls ls -l ls -al pkg install tree tree pwd cd ../usr/etc cd .. cd touch test.txt rm test.txt pkg install nmap-ncat --example pkg search --example pkg list-all clear tar -cvzf test.tar.gz test tar -xzvf test.tar.gz etc.. </description>
+    </item>
+    
+    <item>
+      <title>Neovim in 6 Mins</title>
+      <link>https://Abinav-new.github.io/post/neovim-in-6-mins/</link>
+      <pubDate>Sat, 06 May 2023 02:51:19 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/neovim-in-6-mins/</guid>
+      <description>neovim in 6 mins with neovim you can customize like an ide github.com/Abinav-new/init.lua-config-new </description>
+    </item>
+    
+    <item>
+      <title>Lazyvim Setup</title>
+      <link>https://Abinav-new.github.io/post/lazyvim-setup/</link>
+      <pubDate>Sat, 06 May 2023 02:35:09 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/lazyvim-setup/</guid>
+      <description>how to setup lazyvim on android using termux # required mv ~/.config/nvim ~/.config/nvim.bak # optional but recommended mv ~/.local/share/nvim ~/.local/share/nvim.bak mv ~/.local/state/nvim ~/.local/state/nvim.bak mv ~/.cache/nvim ~/.cache/nvim.bak git clone https://github.com/LazyVim/starter ~/.config/nvim rm -rf .config/nvim/.git nvim </description>
+    </item>
+    
+    <item>
+      <title>Lunarvim Setup</title>
+      <link>https://Abinav-new.github.io/post/lunarvim-setup/</link>
+      <pubDate>Sat, 06 May 2023 02:23:17 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/lunarvim-setup/</guid>
+      <description>how to setup lunarvim.on android using termux LV_BRANCH=&amp;#39;release-1.3/neovim-0.9&amp;#39; bash &amp;lt;(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh) cp .local/bin/lvim ../usr/bin </description>
+    </item>
+    
+    <item>
+      <title>Neovim Setup</title>
+      <link>https://Abinav-new.github.io/post/neovim-setup/</link>
+      <pubDate>Fri, 05 May 2023 15:52:56 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/neovim-setup/</guid>
+      <description>how to add my neovim configure git clone https://github.com/Abinav-new/init.lua-config-new cp init.lua-config-new/init.lua .config/nvim/ cp -r init.lua-config-new/lua .config/nvim/ cp -r init.lua-config-new/after .config/nvim/ </description>
+    </item>
+    
+    <item>
+      <title>Neovim Guide</title>
+      <link>https://Abinav-new.github.io/post/neovim-guide/</link>
+      <pubDate>Fri, 05 May 2023 15:46:48 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/neovim-guide/</guid>
+      <description>how to install neovim on termux pkg install neovim </description>
+    </item>
+    
+    <item>
+      <title>Github in 5 Mins</title>
+      <link>https://Abinav-new.github.io/post/github-in-5-mins/</link>
+      <pubDate>Fri, 05 May 2023 11:03:14 +0000</pubDate>
+      
+      <guid>https://Abinav-new.github.io/post/github-in-5-mins/</guid>
+      <description>Github in 5 Mins (only works on termux) pkg update ; pkg insall git Github is an amazing tool for developers </description>
+    </item>
+    
+  </channel>
+</rss>
